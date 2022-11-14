@@ -38,4 +38,50 @@ export class PostsService {
         })
       )
   }
+
+  getPosts(currentPage: number, pageSize: number): Observable<Post[]> {
+    return this.http.get<Post[]>(`http://localhost:3000/posts?_page=${currentPage}&_limit=${pageSize}`)
+      .pipe(
+        catchError(error => {
+          return throwError(error)
+        })
+      )
+  }
+
+  getPostsLength(): Observable<Post[]> {
+    return this.http.get<Post[]>(`http://localhost:3000/posts`)
+      .pipe(
+        catchError(error => {
+          return throwError(error)
+        })
+      )
+  }
+
+  getById(id: Number): Observable<Post> {
+    return this.http.get<Post>(`http://localhost:3000/posts/${id}`)
+      .pipe(
+        catchError(error => {
+          return throwError(error)
+        })
+      )
+  }
+
+  getPostComments(id: Number): Observable<PostComment[]> {
+    return this.http.get<PostComment[]>(`http://localhost:3000/postComments?post=${id}`)
+      .pipe(
+        catchError(error => {
+          return throwError(error)
+        })
+      )
+  }
+
+  addComment(comment: Comment): Observable<PostComment> {
+    return this.http.post<PostComment>("http://localhost:3000/postComments", { ...comment })
+      .pipe(
+        catchError(error => {
+          console.warn("Send comment error :", error.message)
+          return throwError(error)
+        })
+      )
+  }
 }
