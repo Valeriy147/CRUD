@@ -1,0 +1,47 @@
+.container{
+  padding: 20px 40px 10px 40px;
+  max-width: 1250px;
+  margin: 0px auto;
+}
+
+.title{
+  display: inline-block;
+}
+
+.search-form{
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #D1D1D1;
+  background: #F9F9F9;
+  border-radius: 20px;
+}
+
+.search-form__input{
+  border: none;
+  width: 55%;
+  display: inline-block;
+  background: #F9F9F9;
+  margin-left:1%;
+  font-size: 14px;
+}
+
+.search-form__posts > hr{
+  margin-bottom: 3px;
+}
+
+.search-form__posts{
+  display: inline-block;
+  width: 45%;
+  padding: 0 5px;
+  margin: 3px 3px;
+  border: 1px solid black;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+
+.header-container{
+  margin: 3%;
+}
+
+

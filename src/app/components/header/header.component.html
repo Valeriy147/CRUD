@@ -1,0 +1,24 @@
+<header class="header">
+  <div class="container">
+    <div class="header-container row">
+      <div class="title col-3">
+        <h2 [routerLink]="['/']" class="title__text">Recipes</h2>
+      </div>
+      <form class="search-form col-6 offset-md-3" [formGroup]="form">
+        <input formControlName="input" (change)="search()" class="search-form__input" type="text"
+          placeholder="Search recipes ...">
+        <img src="/assets/search.svg" alt="search">
+        <div *ngIf="(loading$ | async)">
+          <app-loader></app-loader>
+        </div>
+        <div *ngIf="(loaded$ | async)">
+          <div class="search-form__posts" *ngIf="searchPosts$ | async as searchPosts">
+            <hr *ngIf="searchPosts.length > 0">
+            <div class="search-form__posts" *ngFor="let searchPost of searchPosts"
+              [routerLink]="['/post', searchPost.id]" (click)="reset()">{{searchPost.name}}</div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</header>
