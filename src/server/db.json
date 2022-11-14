@@ -1,0 +1,251 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 2,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 3,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 4,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 5,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 6,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 7,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 8,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 9,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 10,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 11,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 12,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 13,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 14,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 15,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 16,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 17,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 18,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 19,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 20,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 21,
+      "img": "assets/post.png",
+      "author": "Nike",
+      "name": "best recipes",
+      "date": "14.11.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    },
+    {
+      "id": 22,
+      "img": "assets/post.png",
+      "author": "John",
+      "name": "best recipes",
+      "date": "15.07.2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos labore nobis earum rem quam expedita modi ratione doloribus minus laboriosam cumque, perspiciatis dolorem numquam maiores corrupti exercitationem in totam blanditiis quod mollitia a aperiam? Exercitationem quibusdam vero enim suscipit quas quaerat sed expedita laborum soluta nobis tenetur, tempore natus necessitatibus rem nulla in ea ullam? Consequatur voluptatibus, optio nostrum doloribus suscipit eligendi deleniti. Dolorem perferendis illo sint reprehenderit ducimus unde facilis omnis qui quis suscipit rerum sed debitis, vel iure consectetur ex pariatur fugiat doloremque repellat, asperiores, accusamus officia laborum sequi vero! Voluptas eos atque minus pariatur, magnam quasi officiis!"
+    }
+  ],
+  "postComments": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "author": "Name",
+      "img": "assets/ava.svg",
+      "date": "14.11.2022",
+      "text": "hello",
+      "inheritance": "",
+      "post": 1
+    },
+    {
+      "id": 2,
+      "email": "abc@gmail.com",
+      "author": "Name2",
+      "img": "assets/ava.svg",
+      "date": "14.11.2022",
+      "text": "hello2",
+      "inheritance": "1",
+      "post": 1
+    },
+    {
+      "id": 3,
+      "email": "abc@gmail.com",
+      "author": "Name3",
+      "img": "assets/ava.svg",
+      "date": "15.07.2022",
+      "text": "hello3",
+      "inheritance": 2,
+      "post": 1
+    },
+    {
+      "id": 4,
+      "email": "abc@gmail.com",
+      "author": "Name4",
+      "img": "assets/ava.svg",
+      "date": "15.07.2022",
+      "text": "hello4",
+      "inheritance": 1,
+      "post": 1
+    },
+    {
+      "id": 5,
+      "email": "abc@gmail.com",
+      "author": "Name5",
+      "img": "assets/ava.svg",
+      "date": "15.07.2022",
+      "text": "hello5",
+      "inheritance": "",
+      "post": 1
+    },
+    {
+      "id": 6,
+      "email": "abc@gmail.com",
+      "author": "Name6",
+      "img": "assets/ava.svg",
+      "date": "15.07.2022",
+      "text": "hello6",
+      "inheritance": 3,
+      "post": 1
+    },
+    {
+      "author": "new comment",
+      "email": "Valera.31.07.9.9@gmail.com",
+      "text": "some text",
+      "img": "assets/noAva.png",
+      "date": "14.10.2022",
+      "post": 1,
+      "id": 7
+    }
+  ]
+}
