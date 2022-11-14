@@ -1,1 +1,62 @@
-<p>main works!</p>
+<div class="container">
+  <div class="head row">
+    <h2 class="head__text col-6 col-md-9">Recipes posts</h2>
+  </div>
+  <div *ngIf="(loadingPosts$ | async)">
+    <app-loader></app-loader>
+  </div>
+  <div *ngIf="(loadedPosts$ | async)">
+    <div @fade *ngIf="posts$ |async as posts" class="banners row">
+      <div [routerLink]="['/post', posts[0].id]" class="col-5 col-md-5 banners__block">
+        <img class="back-img" src={{posts[0].img}}>
+        <div class="banners__name">{{posts[0].name}}</div>
+        <div class="banners__author">
+          <div>{{posts[0].author}}</div>
+          <div>{{posts[0].date}}</div>
+        </div>
+      </div>
+      <div [routerLink]="['/post', posts[1].id]" class="col-5 col-md-5 banners__block">
+        <img class="back-img" src={{posts[1].img}}>
+        <div class="banners__name">{{posts[1].name}}</div>
+        <div class="banners__author">
+          <div>{{posts[1].author}}</div>
+          <div>{{posts[1].date}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 menu">
+    </div>
+    <div class="col-md-9 posts">
+      <div *ngIf="(loadingPosts$ | async)">
+        <app-loader></app-loader>
+      </div>
+      <div *ngIf="(loadedPosts$ | async)">
+        <div class="row" *ngIf="posts$ |async as posts">
+          <div @fade *ngFor="let post of posts.slice(2)" class="post col-md-3 col-offset-1">
+            <div class="post__img">
+              <a [routerLink]="['/post', post.id]"><img src={{post.img}} alt="img"></a>
+            </div>
+            <h5 class="post__title">
+              <a [routerLink]="['/post', post.id]">{{post.name}}</a>
+            </h5>
+            <span class="post__text">description</span>
+            <div>{{post.author}} {{post.date}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pagination" *ngIf="totalCount$ | async as totalCount">
+      <div class="pagination__text">Page:</div>
+      <div class="pages" *ngFor="let page of totalCount">
+        <button class="pages__numbers" *ngIf="currentPage !== page; else activePage" (click)="newPage(page)">
+          {{page}}
+        </button>
+        <ng-template #activePage>
+          <button class="pages__disabled" disabled>{{page}}</button>
+        </ng-template>
+      </div>
+    </div>
+  </div>
+</div>

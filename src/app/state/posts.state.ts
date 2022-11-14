@@ -37,7 +37,6 @@ export class PostsStateModel {
   loadedPostComments!: boolean
   loadingPosts!: boolean;
   loadedPosts!: boolean;
-
   loadingAdd!: boolean;
   loadedAdd!: boolean;
 }
@@ -60,7 +59,7 @@ export class PostsStateModel {
     firstLayerComments: [],
     childrenComments: {},
     totalPostsCount: [],
-    pageSize!: 9,
+    pageSize!: 8,
     loadingPostComments: false,
     loadedPostComments: false,
     loadingPosts: false,
@@ -84,7 +83,7 @@ export class PostsState implements NgxsOnInit {
     return state.loadedSearchedPosts && !state.loadingSearchedPosts;
   }
 
-  @Selector() static GetPosts(state: PostsStateModel) {
+  @Selector() static getPosts(state: PostsStateModel) {
     return state.posts;
   }
 
