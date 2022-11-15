@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="comment">
+    <div class="comment-head row">
+      <div class="comment-head__img col-md-1"><img src={{comment.img}}></div>
+      <div class="comment-head__info col-md-4">
+        <div>{{comment.author}}</div>
+        <div>{{comment.date}}</div>
+      </div>
+    </div>
+    <div class="comment-content">{{comment.text}}</div>
+    <button class="button button__small" (click)="reply({id: comment.id, author: comment.author})">Reply</button>
+  </div>
+  <div *ngIf="children[comment.id]">
+    <app-comment (toReply)="reply($event)" *ngFor="let comment of children[comment.id]" [comment]="comment"
+      [children]="children"></app-comment>
+  </div>
+</div>

@@ -1,3 +1,4 @@
+import { CommentComponent } from './components/post/comment/comment.component';
 import { LoaderComponent } from './components/loader/loader.component';
 import { PostsState } from './state/posts.state';
 import { HttpClientModule } from '@angular/common/http';
@@ -20,7 +21,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MainComponent,
     HeaderComponent,
     LoaderComponent,
-    PostComponent
+    PostComponent,
+    CommentComponent
   ],
   imports: [
     BrowserModule,
